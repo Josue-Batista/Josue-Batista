@@ -1,4 +1,4 @@
-name: Generate Profile Stats
+name: Gerar Estatisticas de Perfil
 
 on:
   schedule:
@@ -12,7 +12,7 @@ jobs:
       contents: write
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Generate Stats Card
         uses: lowlighter/metrics@latest
@@ -36,7 +36,7 @@ jobs:
           config_timezone: America/Sao_Paulo
 
       - name: Generate Activity Graph
-        uses: ashutosh00710/github-readme-activity-graph@v2.3
+        uses: ashutosh00710/github-readme-activity-graph@master
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           output_branch: activity-graph-output
