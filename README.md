@@ -15,7 +15,7 @@
 <p data-importer="text" align="left">🚀 Estudante de ADS focado no desnvolvimento Front-end / Back- end 
 
 - 🔭 **Construindo:** Interfaces responsivas, landing pages e projetos web interativos.
-- 📚 **Estudando:** JavaScript, estrutura de dados e integração de APIs.
+- 📚 **Estudando:** JavaScript, Python,  estrutura de dados e integração de APIs.
 - ⚡ **Habilidades:** HTML5 • CSS3 • JavaScript • Python • Git • GitHub.</p>
 
 ###
