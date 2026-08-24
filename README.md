@@ -12,11 +12,15 @@
 
 ###
 
-<h2 data-importer="text" align="left">about me</h2>
+<p data-importer="text" align="left">🚀 Estudante de ADS focado no desnvolvimento Front-end / Back- end 
+
+- 🔭 **Construindo:** Interfaces responsivas, landing pages e projetos web interativos.
+- 📚 **Estudando:** JavaScript, estrutura de dados e integração de APIs.
+- ⚡ **Habilidades:** HTML5 • CSS3 • JavaScript • Python • Git • GitHub.</p>
 
 ###
 
-<h2 data-importer="text" align="left">about me</h2>
+<h2 data-importer="text" align="left">Techs</h2>
 
 ###
 
@@ -36,19 +40,26 @@
 
 ###
 
-<h2 data-importer="text" align="left">about me</h2>
+<h2 data-importer="text" align="left">Stats</h2>
 
 ###
 
-<div data-importer="stats" align="left">
-  <img src="https://raw.githubusercontent.com/josue-batista/josue-batista/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=swift&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/josue-batista/josue-batista/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=swift&hide_border=false&order=2&custom_title=Language%20In%20Development" height="150" alt="languages graph"  />
-  <img src="https://raw.githubusercontent.com/josue-batista/josue-batista/activity-graph-output/activity-graph.svg?radius=16&theme=tokyo-night&area=true&order=5" height="300" alt="activity-graph graph"  />
+<div data-importer="stats" align="center">
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/josue-batista/josue-batista/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=swift&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
+    <img width="15" />
+    <img src="https://raw.githubusercontent.com/josue-batista/josue-batista/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=swift&hide_border=false&order=2&custom_title=Language%20In%20Development" height="150" alt="languages graph" />
+  </p>
+  
+  <br />
+
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/josue-batista/josue-batista/activity-graph-output/activity-graph.svg?radius=16&theme=tokyo-night&area=true&order=5" height="300" alt="activity-graph graph" />
+  </p>
 </div>
 
-###
 
-<h2 data-importer="text" align="left">about me</h2>
+<h2 data-importer="text" align="left">Social Media</h2>
 
 ###
 
