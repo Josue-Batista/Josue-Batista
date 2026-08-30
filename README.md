@@ -20,7 +20,7 @@
 
 ###
 
-<h2 data-importer="text" align="left">Techs</h2>
+<h2 data-importer="text" align="left">developing technologies</h2>
 
 ###
 
